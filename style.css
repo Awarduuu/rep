@@ -1,0 +1,70 @@
+body {
+    background-image: url('https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Small_Magellanic_Cloud_%28black_background%29.png/1200px-Small_Magellanic_Cloud_%28black_background%29.png');
+}
+h1 {
+    font-family: 'Roboto', sans-serif;
+    color: yellow;
+    text-align: center;
+    font-size: 70px;
+    
+    
+}
+h2 {
+    color: wheat;
+}
+h3 {
+    color: beige;
+}
+a {
+    color: plum;
+}
+p {
+    width: 1200px;
+	color: white;
+}
+ul {
+	color: white;
+}
+button {
+	background: black;
+	color: white;
+}
+.input-group {
+	position : absolute;
+	left : 1100px;
+	top : 0px;
+	color : white;
+}
+.ex {
+    background-color: white;
+    color: black;
+}
+.insta {
+    text-align: left;
+    font-size: 40px;
+}
+.instagram {
+    width: 40px;
+    height: 40px;
+}
+.address p {
+    font-size: 30px;
+    width: 100%;
+}
+.address a {
+    color: plum;
+    font-size: 25px;
+}
+
+.address {
+    text-align: center;
+}
+.introduction {
+    height: 200px;
+    width: 150px;
+    border: solid white;
+
+}
+.introduction a {
+    color: white;
+}
